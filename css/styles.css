@@ -329,8 +329,8 @@ p {
 .team-card-info {
   padding-top: 30px;
   padding-bottom: 30px;
-  padding-left: 32px;
-  padding-right: 32px;
+  /* padding-left: 32px;
+  padding-right: 32px; */
 }
 
 .team-name {
@@ -356,9 +356,8 @@ p {
 
 .social-list {
   display: flex;
-  justify-content: space-between;
-
-  /* text-align: center; */
+  justify-content: center;
+  gap: 10px;
 }
 
 .social-item {
