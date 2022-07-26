@@ -110,8 +110,6 @@ p {
 .logo-accent-color {
   color: var(--accent-color);
 }
-.page-header {
-}
 
 .menu {
   display: flex;
